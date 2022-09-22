@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KumarKanishkSingh
 - 👀 I’m interested in Artificial Intelligence, Machine Learning ad Software Development 
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ... C/C++ projects
 - 📫 How to reach me ...
 
